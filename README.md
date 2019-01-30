@@ -1,5 +1,9 @@
 # Speaker Verification Deployment 
 
+Install packages:
+
+`$ pip install -r requirements.txt`
+
 It has two main functions:
 - enroll voice model of speaker
 - verify the speaker after enrollment
