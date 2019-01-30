@@ -1,8 +1,8 @@
 sounddevice
-configuration
 numpy
 tensorflow
 numpy
 librosa
 sklearn
+tables
 soundfile
