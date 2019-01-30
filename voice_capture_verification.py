@@ -15,6 +15,8 @@ def main():
     print("Who are you?")
     name = input()
     print("Hi %s, Are you ready? (Press enter to continue. Records immediately)" %name)
+    print("The quick brown fox jumps over the lazy dog.")
+
     ready = input()
     duration = config.duration
     print("Recording . . . (Plays immediately after recording)")

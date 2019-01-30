@@ -1,0 +1,8 @@
+sounddevice
+configuration
+numpy
+tensorflow
+numpy
+librosa
+sklearn
+soundfile
