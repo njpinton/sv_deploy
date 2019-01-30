@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints
+__pycache__/
+enroll_npy/
+enroll_voice/
+MODEL/
+verify_voice/
+enroll.csv
+verification.csv
